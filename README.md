@@ -6,9 +6,9 @@
 
 🌍 Currently, I am a Data Scientist intern at Orcawise in Ireland.
 
-👀 I’m interested in data analysis, machine learning, and solving complex business problems.
+👀 I have strong understanding in data analysis, machine learning, deep learning, computer vision, natural language processing and solving complex business problems.
 
-🌱 I’m currently learning advanced deep learning techniques and exploring the world of natural language processing.
+🌱 I’m currently learningLarge language models (LLM) and exploring the world of GAN and many more stuff.
 
 📫 How to reach me:
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarita-ph-d-65610019b/)
