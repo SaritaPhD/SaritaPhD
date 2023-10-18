@@ -1,19 +1,19 @@
-👋 Hello, I’m Sarita
+👋 Hello, I’m Sarita, a highly motivated and dedicated data scientist with a strong educational background and a passion for cutting-edge technologies.
 
-🎓 I hold a Masters and PhD in Applied Mathematics from IIT Roorkee.
+🎓 I hold a Masters and a Ph.D. in Applied Mathematics from the prestigious Indian Institute of Technology (IIT) Roorkee, where I honed my analytical and problem-solving skills, specializing in fractional differential equations and numerical techniques. My academic journey has equipped me with a solid foundation in mathematics and a knack for tackling complex problems.
 
-💼 I have 2 years of experience in the field of data science.
+💼 With over 2 years of professional experience, I have immersed myself in the dynamic world of data science. I'm currently serving as a Data Scientist intern at Orcawise in Ireland, where I am actively contributing to projects that demand innovative solutions to intricate business challenges.
 
-🌍 Currently, I am a Data Scientist intern at Orcawise in Ireland.
+🌍 My work at Orcawise has allowed me to gain a global perspective on data science and has further refined my data analysis, machine learning, deep learning, computer vision, and natural language processing skills. I thrive on transforming data into actionable insights and driving business decisions.
 
-👀 I have strong understanding in data analysis, machine learning, deep learning, computer vision, natural language processing and solving complex business problems.
+👀 My expertise doesn't end there. I'm continuously expanding my knowledge base by delving into the fascinating realm of Large Language Models (LLM) and exploring the limitless potential of GANs (Generative Adversarial Networks) and other emerging technologies. This insatiable curiosity fuels my passion for staying at the forefront of data science and artificial intelligence.
 
-🌱 I’m currently learningLarge language models (LLM) and exploring the world of GAN and many more stuff.
+🌱 Join me on my journey as I navigate the ever-evolving landscape of data science, seeking new challenges, and pushing the boundaries of what's possible in the world of AI.
 
-📫 How to reach me:
+📫  Connect with me on:
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarita-ph-d-65610019b/)
   - Medium: [Medium Profile](https://medium.com/@sarita_68521).
-  - 📫 Feel free to explore my repositories, contribute, and reach out if you have any questions or collaboration ideas!
+  - 📫 Feel free to explore my repositories!
 
 <!---
 SaritaPhD/SaritaPhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
