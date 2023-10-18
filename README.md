@@ -4,7 +4,7 @@
 
 💼 With over 2 years of professional experience, I have immersed myself in the dynamic world of data science. I'm currently serving as a Data Scientist intern at Orcawise in Ireland, where I am actively contributing to projects that demand innovative solutions to intricate business challenges.
 
-🌍 My work at Orcawise has allowed me to gain a global perspective on data science and has further refined my data analysis, machine learning, deep learning, computer vision, and natural language processing skills. I thrive on transforming data into actionable insights and driving business decisions.
+🌍 My work at Orcawise has allowed me to gain a global perspective on data science and has further refined my data analysis, machine learning, deep learning, and natural language processing skills. I thrive on transforming data into actionable insights and driving business decisions.
 
 👀 My expertise doesn't end there. I'm continuously expanding my knowledge base by delving into the fascinating realm of Large Language Models (LLM) and exploring the limitless potential of GANs (Generative Adversarial Networks) and other emerging technologies. This insatiable curiosity fuels my passion for staying at the forefront of data science and artificial intelligence.
 
