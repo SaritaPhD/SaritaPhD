@@ -6,9 +6,7 @@
 
 🌍 My work at Orcawise has allowed me to gain a global perspective on data science and has further refined my data analysis, machine learning, deep learning, and natural language processing skills. I thrive on transforming data into actionable insights and driving business decisions.
 
-👀 My expertise doesn't end there. I'm continuously expanding my knowledge base by delving into the fascinating realm of Large Language Models (LLM) and exploring the limitless potential of GANs (Generative Adversarial Networks) and other emerging technologies. This insatiable curiosity fuels my passion for staying at the forefront of data science and artificial intelligence.
-
-🌱 Join me on my journey as I navigate the ever-evolving landscape of data science, seeking new challenges, and pushing the boundaries of what's possible in the world of AI.
+👀 I'm continuously expanding my knowledge base by delving into the fascinating realm of Large Language Models (LLM) and exploring the limitless potential of GANs (Generative Adversarial Networks) and other emerging technologies. This insatiable curiosity fuels my passion for staying at the forefront of data science and artificial intelligence.
 
 📫  Connect with me on:
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarita-ph-d-65610019b/)
