@@ -6,7 +6,7 @@
 
 📫  Connect with me on:
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarita-ph-d-65610019b/)
-  - Medium: [Medium Profile](https://medium.com/@sarita_68521).
+  - Medium: [Medium Profile](https://medium.com/@sarita_68521)
   - 📫 Feel free to explore my repositories!
 
 <!---
