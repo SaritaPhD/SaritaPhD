@@ -1,4 +1,4 @@
-👋 Hello, I’m Sarita, an experienced Data Sciencist with a strong educational background and a passion for learning cutting-edge technologies.
+👋 Hello, I’m Sarita, an experienced Data Scientist with a strong educational background and a passion for learning cutting-edge technologies.
 
 🎓 I hold a Masters and a Ph.D. in Applied Mathematics from Indian Institute of Technology (IIT) Roorkee, where I honed my analytical and problem-solving skills, specializing in fractional differential equations and numerical techniques. My academic journey has equipped me with a solid foundation in mathematics and a knack for tackling complex problems.
 
